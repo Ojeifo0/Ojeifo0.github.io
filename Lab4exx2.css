@@ -1,0 +1,38 @@
+.Box{
+    margin: 0px 10px 0% 10px;
+    border: purple 3px dashed;
+    padding: 100px;
+}
+.BoxText{
+   position: relative;
+   margin-left: 500px;
+   top:90px;
+}
+
+.Green{
+   color: green;
+   position: relative;
+   margin-left: 650px;
+   font-size: 10px;
+}
+
+.Gold{
+    color: gold;
+    margin-bottom:10px;
+    font-size: 25px;
+}
+
+.Red{
+    color: red;
+    vertical-align:super;
+ }
+
+ .Purple{
+     color:purple;
+     margin-left: 1300px;
+     font-size: 8px;
+ }
+
+ .Yellow{
+     color: yellow;
+ }
