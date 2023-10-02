@@ -1,0 +1,40 @@
+.Box{
+    background-color: green;
+    margin-top: 20%;
+    margin-left:20px;
+    width: 98.3%;
+    border: black 2px dashed;
+    padding: 0px;
+}
+
+.Red{
+    color: red;
+    margin-top: ;
+}
+
+.Green{
+    color: darkgreen;
+}
+
+.Purple{
+    margin-left:-7.8px ;
+    background-color:green;
+    color: purple;
+}
+.Filler{
+    content: '';
+    position: absolute;
+    width:28px;
+    left:0;
+    height:90px;
+    background: green;
+}
+.Fillerr{
+    content: '';
+    position: absolute;
+    top: 374px;
+    width:1432px;
+    left:0;
+    height:15.8px;
+    background: green;
+}
