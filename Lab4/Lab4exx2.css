@@ -5,14 +5,14 @@
 }
 .BoxText{
    position: relative;
-   margin-left: 250px;
+   margin-left: 500px;
    top:90px;
 }
 
 .Green{
    color: green;
    position: relative;
-   margin-left: 395px;
+   margin-left: 650px;
    font-size: 10px;
 }
 
@@ -29,7 +29,7 @@
 
  .Purple{
      color:purple;
-     margin-left: 743.3px;
+     margin-left: 1300px;
      font-size: 8px;
  }
 

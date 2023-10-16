@@ -1,0 +1,47 @@
+body{
+margin: 20px;
+border-style: hidden;
+padding: 10px;
+}
+
+.parent img{
+    width: 400px;
+    height: 300px;
+}
+
+.Naij{
+    color: green;
+}
+
+.size{
+    font-size: large;
+}
+
+.font{
+    font-style: italic;
+}
+
+.capital{
+    text-transform: capitalize;
+}
+
+.absolute{
+    position: absolute;
+    top: 1000px;
+}
+
+.relative{
+    position: relative;
+    bottom: 12px;
+}
+
+.fixed{
+   position: fixed;
+   right: 10px;
+}
+
+h1,h2{
+    color: red;
+    font-weight:bold;
+}
+
