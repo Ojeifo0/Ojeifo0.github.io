@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+a {
+    color: gold;
+  }
+
+a:hover {
+    color: yellow; 
+    text-decoration: underline; 
+  }
+
+.Header{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    border: white 1px solid;
+    padding: 0px;
+}
+
+.Logo{
+    width: 350px;
+    height: 200px;
+}
+
+.row1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+img{
+    width: 20%;
+    height: 500px;
+}
+
+.golazo{
+    color: gold;
+}
+
+.pic:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+}

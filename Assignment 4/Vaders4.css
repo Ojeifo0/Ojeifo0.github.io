@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    color: gold;
+    text-align: center;
+}
+
+h3{
+    color: gold;
+    text-align: center;
+}
+
+a {
+    color: gold;
+  }
+
+  a:hover {
+    color: yellow; 
+    text-decoration: underline; 
+  }
+
+.Header{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    border: white 1px solid;
+    padding: 0px;
+}
+
+.Logo{
+    width: 350px;
+    height: 200px;
+}
+
+.golazo{
+    color: gold;
+}
